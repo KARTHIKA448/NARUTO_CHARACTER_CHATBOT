@@ -1,2 +1,2 @@
 # NARUTO_CHARACTER_CHATBOT
-NINJA CHAT: An interactive AI chatbot powered by a language model fine-tuned on the Naruto anime series. Engage in conversations with your favorite characters using their iconic dialogues. Built with Gradio, this project showcases advanced NLP techniques for a unique, fan-centered chatbot experience.
+NINJA CHAT is an interactive AI chatbot powered by a language model fine-tuned on the Naruto anime series. This innovative project allows fans to engage in conversations with Naruto, using his iconic dialogues. Built with Gradio, NINJA CHAT showcases the integration of advanced Natural Language Processing (NLP) techniques and fine-tuned models for a unique, fan-centered experience.
